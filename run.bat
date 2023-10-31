@@ -1,0 +1,2 @@
+python StressDetection.py
+pause
